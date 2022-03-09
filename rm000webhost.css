@@ -1,0 +1,9 @@
+div.disclaimer
+{
+     display:none;
+}
+img[alt="www.000webhost.com"]
+{
+     /*if 000webhost logo reappears in the future*/
+     display:none;
+}
